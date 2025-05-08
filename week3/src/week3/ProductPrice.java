@@ -14,7 +14,7 @@ public class ProductPrice {
 		//int total;
 		
 		//total = (m_cnt * m_price) + (c_cnt * c_price) + (s_cnt * s_price);
-		int total = c_cnt * m_price;
+		int total = m_cnt * m_price;
 		total += c_cnt * c_price;
 		total += s_cnt * s_price;
 		System.out.printf("총 상품 가격 : %d원\n", total);

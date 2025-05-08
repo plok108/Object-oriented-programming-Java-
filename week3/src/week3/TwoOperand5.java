@@ -5,7 +5,7 @@ public class TwoOperand5 {
 		// 복합 대입 연산자 : +=, -=, *=, /= ....etc
 		int result = 10;
 		
-		int result2 = result + 10;
+		//int result2 = result + 10;
 		// 변수의 재활용 가능
 		//result = result + 10;
 		// 코드의 효율성으로 사용하자 -> 복합 대입 연산자를 사용하자
