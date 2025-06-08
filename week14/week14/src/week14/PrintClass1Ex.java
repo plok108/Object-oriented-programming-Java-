@@ -1,0 +1,8 @@
+package week14;
+
+public class PrintClass1Ex {
+	public static void main(String[] args) {
+		PrintClass1 pc1 = new PrintClass1();
+		pc1.printValue(100);
+	}
+}
